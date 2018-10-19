@@ -1,4 +1,4 @@
-## Information
+# Information
 Pharmanalitik is an online platform to analyse registered pharmatics datas and model them in charts and giving statictical information.  
 
 The Project Uses:
