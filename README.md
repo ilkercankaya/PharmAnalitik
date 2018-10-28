@@ -3,6 +3,7 @@ Pharmanalitik is an online platform to analyse registered pharmatics datas and m
 
 The Project Uses:
 * MySQL  
+* HTML5 / CSS3
 * Php  
 * Javascript (JQuery, AJAX, charts.js, table.js)  
   
