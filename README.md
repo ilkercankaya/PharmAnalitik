@@ -9,7 +9,7 @@ The Project Uses:
   
 ## Demo
 
-[Live Demo ](http://www.pharmanalitik.com/)
+[Live Demo!](http://www.pharmanalitik.com/)
 
 ## Live Demo Pass
 
